@@ -549,3 +549,7 @@ python3 -m http.server 8000
 **商用授权：** 如需商业使用，请联系作者获取单独授权：X（Twitter）私信 [@hassanyehiaa](https://x.com/hassanyehiaa)、邮箱 [499749204@qq.com](mailto:499749204@qq.com)，或在本仓库 [提交 Issue](https://github.com/xiaoyang111222/cn-math-taxonomy/issues) 说明用途。
 
 This project is licensed under CC BY-NC 4.0. For commercial licensing, please contact the author via X [@hassanyehiaa](https://x.com/hassanyehiaa), email [499749204@qq.com](mailto:499749204@qq.com), or open an issue.
+
+## 我的学习记录
+
+- 2026-11-03：Fork 了这个仓库，计划把数学知识点做成一个微信小程序。
